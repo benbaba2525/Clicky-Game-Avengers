@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game-Avengers/static/css/main.de061b2d.chunk.css",
+    "main.js": "/Clicky-Game-Avengers/static/js/main.d29f94be.chunk.js",
+    "main.js.map": "/Clicky-Game-Avengers/static/js/main.d29f94be.chunk.js.map",
+    "runtime-main.js": "/Clicky-Game-Avengers/static/js/runtime-main.ed2395ae.js",
+    "runtime-main.js.map": "/Clicky-Game-Avengers/static/js/runtime-main.ed2395ae.js.map",
+    "static/js/2.6a885b5e.chunk.js": "/Clicky-Game-Avengers/static/js/2.6a885b5e.chunk.js",
+    "static/js/2.6a885b5e.chunk.js.map": "/Clicky-Game-Avengers/static/js/2.6a885b5e.chunk.js.map",
+    "index.html": "/Clicky-Game-Avengers/index.html",
+    "precache-manifest.b407fbc90bc9c45613afd29f94b8907c.js": "/Clicky-Game-Avengers/precache-manifest.b407fbc90bc9c45613afd29f94b8907c.js",
+    "service-worker.js": "/Clicky-Game-Avengers/service-worker.js",
+    "static/css/main.de061b2d.chunk.css.map": "/Clicky-Game-Avengers/static/css/main.de061b2d.chunk.css.map",
+    "static/js/2.6a885b5e.chunk.js.LICENSE.txt": "/Clicky-Game-Avengers/static/js/2.6a885b5e.chunk.js.LICENSE.txt",
+    "static/media/You Lose - Sound Effect - 2017.mp3": "/Clicky-Game-Avengers/static/media/You Lose - Sound Effect - 2017.1765eddf.mp3",
+    "static/media/You Win (Voice) - Sound Effect [HD].mp3": "/Clicky-Game-Avengers/static/media/You Win (Voice) - Sound Effect [HD].c7551b05.mp3",
+    "static/media/correct sound effect.mp3": "/Clicky-Game-Avengers/static/media/correct sound effect.ecf83eac.mp3",
+    "static/media/Score.css": "/Clicky-Game-Avengers/static/media/maxresdefault.7e7c97af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed2395ae.js",
+    "static/js/2.6a885b5e.chunk.js",
+    "static/css/main.de061b2d.chunk.css",
+    "static/js/main.d29f94be.chunk.js"
+  ]
+}
