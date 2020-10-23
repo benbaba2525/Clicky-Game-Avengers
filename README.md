@@ -5,12 +5,12 @@ Click game built with React to track clicks and present the user with a score. T
 `Go check it out :  ` https://benbaba2525.github.io/Clicky-Game-Avengers/
 
 ### Technologies used
-HTML
-CSS
-Bootstrap
-Javascript
-ReactJS
-Nodejs
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- ReactJS
+- Nodejs
 
 ### Instructions
 
