@@ -25,7 +25,7 @@ Click game built with React to track clicks and present the user with a score. T
 ### Authors
   - Kanyarut Pornamnuay
   <br><a target="_blank" rel="nofollow" href="https://github.com/benbaba2525">Visit My Github Profile</a>
-  <br><a target="_blank" rel="nofollow" href="https://benbaba2525.github.io/My-Portfolio/">Visit My Portfolio</a>
+  <br><a target="_blank" rel="nofollow" href="https://www.kanyarut.me/">Visit My Portfolio</a>
 
 
 ### Acknowledgments
